@@ -1,0 +1,7 @@
+{
+  "name": "AgriPrice",
+  "description": "Predict tomorrow's crop prices today. Live agricultural mandi rates, trend trajectory forecasting, and data-driven market insights for farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
